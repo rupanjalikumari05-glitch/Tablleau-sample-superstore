@@ -21,7 +21,7 @@ This project analyzes sales and profit data using Tableau on the Sample Supersto
 - Phones and Chairs are top-selling products.
 
 ## Dashboard Screenshot
-(Add screenshot here)
+![Dashboard Screenshot](dashboard.png)
 
 ## Tableau Public Link
-(Add link here)
+https://public.tableau.com/app/profile/rupanjali.kumari/viz/1stprojectdashboard/salesperformanceDashboard-samplesuperstore?publish=yes
